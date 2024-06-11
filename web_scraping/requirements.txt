@@ -1,0 +1,7 @@
+
+# For running scraping.py we have to install following modules.
+
+requests
+BeautifulSoup
+threading
+psycopg2
