@@ -1,6 +1,6 @@
 # Flipkart Product Scraper
 
-This project is a web scraper designed to extract product information from Flipkart's monitor category and store the data in a PostgreSQL database. 
+This project is a web scraper designed to extract product information from Flipkart's product category and store the data in a PostgreSQL database. 
 The scraper uses Python with the `requests`, `BeautifulSoup`, and `threading` libraries for web scraping, and `psycopg2` for database interactions.
 
 ## Prerequisites
